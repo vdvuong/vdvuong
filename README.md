@@ -1,5 +1,5 @@
-<h2> Hey there! I'm vtearit. <img src="https://github.com/vtearit/vtearit/blob/main/images/hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/vtearit/vtearit/blob/main/images/vtearit.gif" width="350"/>
+<h2> Hey there! I'm vtearit. <img src="https://github.com/vtearit/vtearit/blob/master/images/hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/vtearit/vtearit/blob/master/images/vtearit.gif" width="350"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
