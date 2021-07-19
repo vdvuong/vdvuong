@@ -15,7 +15,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Less 
 - 🛢 &nbsp; MySQL | Apache | SqlServer
 - 🔧 &nbsp; Deployer | Git
-- 🖥 &nbsp; Linux | Window
+- 🖥 &nbsp; Linux | Windows
 
 <br>
 
