@@ -19,8 +19,6 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtearit&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Vtearit Github Stats">
-
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtearit&layout=compact&text_color=daf7dc&bg_color=222222" alt="Most use languages">
