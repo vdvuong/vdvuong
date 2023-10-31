@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtearit&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Vu Duc Vuong Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtearit&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox" alt="Vtearit Github Stats">
 
 <br>
 
