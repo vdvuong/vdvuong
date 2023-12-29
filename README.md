@@ -1,6 +1,7 @@
+<img src="https://komarev.com/ghpvc/?username=vvud&label=Profile%20views&color=0e75b6&style=flat" alt="vvud" style="float:right;" />
 <h2> Hey there! I'm vuduc <img src="https://github.com/vvud/vvud/blob/master/images/hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/vvud/vvud/blob/master/images/vtearit.gif" width="350"/>
-<img src="https://komarev.com/ghpvc/?username=vvud&label=Profile%20views&color=0e75b6&style=flat" alt="vvud" />
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working Magento Web Development
